@@ -100,4 +100,4 @@ You should be result with a .vec files now then fill in this template to begin c
 
 This Would get you training and after it finish it should give you a .xml file in your data folder.
 
- 
+ # If you have any question or concerns you could go to the template Directory to look at what am I doing
